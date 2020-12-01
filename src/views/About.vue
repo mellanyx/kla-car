@@ -1,5 +1,13 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <p>Описание приложения</p>
 </template>
+
+<script>
+export default {
+  name: 'About.vue'
+}
+</script>
+
+<style scoped>
+
+</style>
